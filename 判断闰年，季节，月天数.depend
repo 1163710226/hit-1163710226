@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477559519 source:d:\codeblocks\新建文件夹\判断闰年，季节，月天数\main.c
+	<stdio.h>
+	<stdlib.h>
+
